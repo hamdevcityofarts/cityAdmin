@@ -154,7 +154,7 @@ const Sidebar = () => {
               <img 
                 src={logo}
                 alt="Grand Hotel Logo" 
-                className="h-16 w-16 object-contain"
+                className="h-16 w-18 object-contain"
               />
             </div>
           </div>
@@ -181,7 +181,7 @@ const Sidebar = () => {
             <img 
               src={logo}
               alt="Grand Hotel Logo" 
-              className="h-16 w-16 object-contain"
+              className="h-16 w-18 object-contain"
             />
           </div>
         </div>
